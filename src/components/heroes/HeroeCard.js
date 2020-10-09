@@ -13,7 +13,7 @@ export const HeroeCard = ({
       <div className='row no-gutters'>
         <div className='col-md-4'>
           <img
-            src={`./heroes-app/assest/heroes/${id}.jpg`}
+            src={`https://francoderweb.github.io/heroes-app/assets/heroes/${id}.jpg`}
             alt={superhero}
             className='card-img'
           />
