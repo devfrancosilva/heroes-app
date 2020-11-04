@@ -1,7 +1,7 @@
 {
   "name": "heroes-app",
   "version": "0.1.0",
-  "homepage": "http://francoderweb.github.io/heroes-app",
+  "homepage": "https://heroes.francoder.me",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
