@@ -1,6 +1,6 @@
 ## SPA
 
-## LIVE:  https://francoderweb.github.io/heroes-app
+## LIVE:  http://heroes.francoder.me
 
 ## HOOKS: 
 ## useContext - useReducer
