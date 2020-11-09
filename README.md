@@ -1,9 +1,9 @@
-## SPA
+## Heroes App
+Creada con React
+## ---> [LIVE](https://heroes.francoder.me) <---
 
-## LIVE:  https://heroes.francoder.me
-
-## HOOKS: 
-## useContext - useReducer
+## Hooks:
+### `useContext - useReducer`
 
 ## Protección de rutas con react-router-dom
 
