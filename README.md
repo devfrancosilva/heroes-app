@@ -1,6 +1,6 @@
 ## Heroes App
 Creada con React
-## ---> [LIVE](https://heroes.francoder.me) <---
+## ---> [LIVE](https://devfs-heroes-app.netlify.app/) <---
 
 ## Hooks:
 ### `useContext - useReducer`
